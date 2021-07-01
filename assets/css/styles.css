@@ -494,9 +494,10 @@ img {
 }
 
 .skills__titles {
-    display: flex;
-    justify-content: space-between;
+    /* display: flex;
+    justify-content: space-between; */
     margin-bottom: var(--mb-0-5);
+    margin-top: var(--mb-0-5);
 }
 
 .skills__name {
@@ -518,7 +519,7 @@ img {
     display: block;
     background-color: var(--first-color);
 }
-
+/* 
 .skills__html {
     width: 80%;
 }
@@ -573,7 +574,7 @@ img {
 }
 .skills__mitm {
     width: 60%;
-}
+} */
 
 .skills__close .skills__list {
     height: 0;
